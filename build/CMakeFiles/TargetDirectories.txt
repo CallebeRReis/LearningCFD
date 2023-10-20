@@ -1,0 +1,4 @@
+/home/Callebez/dev/learningCFD/build/CMakeFiles/LearningCFD.dir
+/home/Callebez/dev/learningCFD/build/CMakeFiles/run.dir
+/home/Callebez/dev/learningCFD/build/CMakeFiles/edit_cache.dir
+/home/Callebez/dev/learningCFD/build/CMakeFiles/rebuild_cache.dir

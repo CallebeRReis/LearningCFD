@@ -1,0 +1,8 @@
+# ninja log v5
+1	47	1697822766797717667	CMakeFiles/LearningCFD.dir/src/main.cpp.o	f1f6a07643614c44
+47	98	1697822912201712503	MyGSLExecutable	8b992296cf1ccb94
+1	46	1697822912153712504	CMakeFiles/MyGSLExecutable.dir/src/main.cpp.o	edd5f94591aaeb0a
+1	77	1697823171037703309	CMakeFiles/LearningCFD.dir/src/main.cpp.o	8d30881621c5d591
+78	144	1697823171105703307	../bin/LearningCFD	e0f884bb743f7bdd
+144	150	0	CMakeFiles/run	100f537cb2479567
+144	150	0	/home/Callebez/dev/learningCFD/build/CMakeFiles/run	100f537cb2479567
